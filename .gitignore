@@ -1,1 +1,4 @@
 /.idea/
+/fdroid/repo/config.yml
+/*.p12
+/fdroid/repo/repo/status/
