@@ -1,0 +1,1 @@
+# Simple repo to serve public static files for FDroid
