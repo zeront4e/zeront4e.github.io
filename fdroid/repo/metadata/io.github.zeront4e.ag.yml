@@ -1,9 +1,11 @@
 AuthorName: 'zeront4e'
 Categories:
-- repo
+- Task
+- Habit Tracker
 CurrentVersionCode: 2147483647
-IssueTracker: 'https://github.com/zeront4e/annagotchi-task-tracker'
+IssueTracker: 'https://github.com/zeront4e/annagotchi-task-tracker/issues'
 Name: Annagotchi
 SourceCode: 'https://github.com/zeront4e/annagotchi-task-tracker'
 Summary: 'An Open-Source task tracker with streaks and daily facts.'
 WebSite: 'https://github.com/zeront4e/annagotchi-task-tracker'
+License: Apache-2.0
